@@ -1,8 +1,8 @@
-# Projeto: Games & Números*
+# *Projeto: Games & Números*
 
 ## Desvendando o Sucesso dos Jogos de Videogames Através da Análise de Dados
 
-Bem-vindo ao projeto **Games & Números*!** Aqui na nossa loja online, Ice, mergulhamos nas profundezas dos dados para decifrar os padrões que determinam o sucesso de um jogo. Nossa missão é utilizar uma variedade de dados abertos, incluindo avaliações de usuários, análises de especialistas, informações sobre gêneros, plataformas como Xbox e PlayStation, e dados históricos de vendas de jogos para identificar os potenciais 'grandes vencedores' e criar estratégias publicitárias eficazes.
+Bem-vindo ao projeto **Games & Números!** Aqui na nossa loja online, Ice, mergulhamos nas profundezas dos dados para decifrar os padrões que determinam o sucesso de um jogo. Nossa missão é utilizar uma variedade de dados abertos, incluindo avaliações de usuários, análises de especialistas, informações sobre gêneros, plataformas como Xbox e PlayStation, e dados históricos de vendas de jogos para identificar os potenciais 'grandes vencedores' e criar estratégias publicitárias eficazes.
 
 **Data de Referência:** Dezembro de 2016
 
