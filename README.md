@@ -30,3 +30,14 @@ Esperamos desvendar os segredos por trás dos triunfos dos videogames, oferecend
 ## Licença
 
 Este projeto é distribuído sob a [Licença MIT](LICENSE).
+
+
+![games](https://github.com/thiagonazario/ProjectGamesAndNumbers/assets/140405708/768e7fdc-ee27-4ab3-9ea2-3823319349a3)
+
+![games2](https://github.com/thiagonazario/ProjectGamesAndNumbers/assets/140405708/6f480da0-e251-4c3b-a739-3b5ec00dcb9c)
+
+![games3](https://github.com/thiagonazario/ProjectGamesAndNumbers/assets/140405708/d71e6c63-01d5-4b5e-a74a-5b41803de5a0)
+
+
+
+
